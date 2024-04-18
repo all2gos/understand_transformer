@@ -11,7 +11,7 @@ There are several sources that I intend to use:
 3. [Repository on GitHub](https://github.com/mlabonne/llm-course) being a course to LLM
 4. A very [helpful website](https://bbycroft.net/llm?utm_source=tldrai) in the whole learning process showing the operation of the Transformer interactively
 5. Countless articles (also videos) scattered in various corners of the Internet (mainly [this excellent tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
-6. [Endless conversations with ChatGPT]
+6. Endless conversations with ChatGPT
 
 
 I invite you to familiarize yourself with my attempt to understand this one of the most popular architectures in use today. 
